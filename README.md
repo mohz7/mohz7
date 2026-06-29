@@ -39,13 +39,11 @@ I write clean, maintainable server-side code and design efficient database syste
 **Databases & Tooling**
 `SQL` `Relational DBMS` `Git` `GitHub` `Visual Studio`
 
-
-
 ---
 
 ## Projects
 
-### 🏥 eLab System-Graduation project
+### 🏥 eLab System — Graduation Project
 A digital platform for managing medical laboratory operations end-to-end — patient data, test workflows, and results delivery, all in one place.
 
 - Three-layer architecture with a clean separation of concerns
@@ -54,9 +52,33 @@ A digital platform for managing medical laboratory operations end-to-end — pat
 
 ---
 
+### 🛒 SHOP API
+ASP.NET Core Web API built with a 3-layer architecture (BLL/DAL). The most complete backend project in this portfolio.
 
+- JWT authentication with email-based password reset flow
+- Product and category management with multi-language (translation) support
+- Mapster for object mapping between layers
+- Clean separation between business logic and data access
 
+---
 
+### 🌿 eco — MVC Admin Panel
+ASP.NET Core MVC application with a split Admin/User area for managing an e-commerce catalog.
+
+- Admin dashboard built on AdminLTE for product and category management
+- Area-based routing separating admin and user-facing views
+- Built while learning the MVC pattern in C#
+
+---
+
+### 🔧 App1 — First ASP.NET API
+First Web API built while learning ASP.NET Core — products and categories CRUD from scratch.
+
+- Entity Framework Core with SQL and migration management
+- REST endpoints for categories and products
+- Starting point for the backend learning path that led to SHOP
+
+---
 
 ## At a Glance
 
