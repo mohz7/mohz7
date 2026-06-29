@@ -22,7 +22,7 @@
 
 ## About
 
-I'm a Computer Systems Engineer focused on backend development and database architecture. I accelerated a standard 5-year engineering program to complete it in 4 years, and backed that up with 200+ hours of hands-on IT training at **Jawwal** — working directly with enterprise server infrastructure, networking, and backend automation.
+I'm a Computer Systems Engineer focused on backend development and database architecture. I accelerated a standard 5-year engineering program to complete it in 4 years, and backed that up with 100+ hours of hands-on IT training at **Jawwal** — working directly with enterprise server infrastructure, networking, and backend automation.
 
 I write clean, maintainable server-side code and design efficient database systems. The goal is always the same: solve real engineering problems without leaving a mess behind.
 
