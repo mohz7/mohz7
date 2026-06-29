@@ -27,7 +27,7 @@ My practical experience includes over 200 hours of intensive IT training at Jaww
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:mohziree@gmail.com">
+  <a href="mohziree@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/mohammed-ziree-67a881352" target="_blank">
