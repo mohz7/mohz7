@@ -39,8 +39,7 @@ I write clean, maintainable server-side code and design efficient database syste
 **Databases & Tooling**
 `SQL` `Relational DBMS` `Git` `GitHub` `Visual Studio`
 
-**Infrastructure**
-`Server Administration` `Web Hosting` `Selenium`
+
 
 ---
 
