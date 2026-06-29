@@ -1,40 +1,77 @@
-# Hi, I'm Mohammed Ziree
+<div align="center">
 
-💻 Backend Engineer | Computer Systems Graduate.
-Developing robust, scalable backend systems with clean architecture and high-performance server-side logic.
+```
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+```
 
-## 👨🏻‍💼 About Me
+### Backend Engineer · Computer Systems Graduate
 
-I’m Mohammed Ziree, a Computer Systems Engineer specializing in backend development and database architecture. I have a strong foundation in core software engineering principles, having accelerated my academic path to complete a standard 5-year engineering degree in just 4 years. 
+*Building server-side systems that are secure, scalable, and optimized — from database layer to API response.*
 
-My practical experience includes over 200 hours of intensive IT training at Jawwal, where I worked directly with enterprise server infrastructure, networking, and backend automation. I enjoy writing clean, maintainable server-side code and designing efficient database systems to solve complex engineering problems.
+[![Email](https://img.shields.io/badge/mohziree%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohziree@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Mohammed%20Ziree-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-ziree-67a881352)
 
-## ⚙️ Tech Stack
-
-* **Backend & Frameworks:** Node.js, C# (MVC), Python.
-* **Core Languages:** JavaScript, Python, C++, Java, C#.
-* **Databases & Tools:** Relational Databases (DBMS), SQL, Git, GitHub, Visual Studio.
-
-
-## 🚀 Featured Projects
-
-### 🏥 eLab System-Graduation project
-* **A comprehensive digital platform** designed to streamline and manage medical laboratory operations, ensuring secure data handling and efficient workflows.
-* Built using a robust three-layer architecture with a highly responsive front-end and a secure, optimized backend API.
-
-
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:mohziree@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/mohammed-ziree-67a881352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+</div>
 
 ---
 
-> "I build backend systems that are secure, scalable, and optimized—ensuring seamless performance from the server to the user."
+## About
+
+I'm a Computer Systems Engineer focused on backend development and database architecture. I accelerated a standard 5-year engineering program to complete it in 4 years, and backed that up with 200+ hours of hands-on IT training at **Jawwal** — working directly with enterprise server infrastructure, networking, and backend automation.
+
+I write clean, maintainable server-side code and design efficient database systems. The goal is always the same: solve real engineering problems without leaving a mess behind.
+
+---
+
+## Stack
+
+**Languages**
+`JavaScript` `Python` `C#` `C++` `Java`
+
+**Backend & Frameworks**
+`Node.js` `C# MVC` `Python Flask`
+
+**Databases & Tooling**
+`SQL` `Relational DBMS` `Git` `GitHub` `Visual Studio`
+
+**Infrastructure**
+`Server Administration` `Web Hosting` `Selenium`
+
+---
+
+## Projects
+
+### 🏥 eLab System-Graduation project
+A digital platform for managing medical laboratory operations end-to-end — patient data, test workflows, and results delivery, all in one place.
+
+- Three-layer architecture with a clean separation of concerns
+- Secure backend API with optimized query performance
+- Designed for reliability in clinical environments where data integrity is non-negotiable
+
+---
+
+
+
+
+
+## At a Glance
+
+```
+📍 Palestine
+🎓 Computer Systems Engineering (4-year accelerated)
+🏢 200+ hours enterprise IT training @ Jawwal
+🔧 Currently building backend systems and expanding into cloud infrastructure
+```
+
+---
+
+<div align="center">
+
+*"Good backend code is invisible — users only notice it when it breaks."*
+
+</div>
