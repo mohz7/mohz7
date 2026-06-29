@@ -85,7 +85,7 @@ First Web API built while learning ASP.NET Core — products and categories CRUD
 ```
 📍 Palestine
 🎓 Computer Systems Engineering (4-year accelerated)
-🏢 200+ hours enterprise IT training @ Jawwal
+🏢 100+ hours enterprise IT training @ Jawwal
 🔧 Currently building backend systems and expanding into cloud infrastructure
 ```
 
